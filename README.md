@@ -48,18 +48,10 @@ Téléchargez la dernière version de l'installateur officiel pour Windows :
 ## 🖼️ Aperçu de l'interface
 
 
-
-<p align="center">
-  <img width="800" src="https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/assets/<img width="1150" height="772" alt="Capture d&#39;écran 2026-11-19 010504" src="https://github.com/user-attachments/assets/0f9e98be-4c4e-450b-a847-13c72288d056" />" />
-  <br><br>
-  <img width="800" src="https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/assets/METS_LE_LIEN_GITHUB_ICI_2" />
-  <br><br>
-  <img width="800" src="https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/assets/METS_LE_LIEN_GITHUB_ICI_3" />
-  <br><br>
-  <img width="800" src="https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/assets/METS_LE_LIEN_GITHUB_ICI_4" />
-  <br><br>
-  <img width="800" src="https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/assets/METS_LE_LIEN_GITHUB_ICI_5" />
-  <br><br>
-  <img width="800" src="https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/assets/METS_LE_LIEN_GITHUB_ICI_6" />
-</p>
+<img width="1150" height="772" alt="Capture d&#39;écran 2026-11-19 010504" src="https://github.com/user-attachments/assets/800db64a-b01b-4956-9ab7-208e5e4fc745" />
+<img width="1136" height="778" alt="Capture d&#39;écran 2026-11-19 010639" src="https://github.com/user-attachments/assets/ba84bbd3-c5b0-468b-a67c-d27f30008cc4" />
+<img width="1142" height="768" alt="Capture d&#39;écran 2026-11-19 010621" src="https://github.com/user-attachments/assets/3ab87dba-be69-4cb1-ae15-ae5e843778f3" />
+<img width="1156" height="782" alt="Capture d&#39;écran 2026-11-19 010559" src="https://github.com/user-attachments/assets/7d8fa6b2-074d-47ba-a6fa-f0950aed8ee5" />
+<img width="1140" height="778" alt="Capture d&#39;écran 2026-11-19 010542" src="https://github.com/user-attachments/assets/90513cf4-5194-4da3-b81c-2566f0a1a7af" />
+<img width="1152" height="785" alt="Capture d&#39;écran 2026-11-19 010523" src="https://github.com/user-attachments/assets/a4c909bf-00ff-4029-b992-85d7f92fa61c" />
 
