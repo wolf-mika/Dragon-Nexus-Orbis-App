@@ -38,11 +38,5 @@ Téléchargez la dernière version de l'installateur officiel pour Windows :
 <p align="center">
   <img width="453" height="471" alt="Aperçu Dragon-Nexus-Orbis" src="https://github.com/user-attachments/assets/83ab8ea5-7229-4594-b465-29dc732f8808" />
 </p>
-<p align="center">
-  <img width="800" alt="Aperçu 1" src="<img width="1150" height="772" alt="Capture d&#39;écran 2026-11-19 010504" src="https://github.com/user-attachments/assets/0989e885-056d-4d67-bb73-a38a152c8cc8" />
-" />
-  <br><br>
-  <img width="800" alt="Aperçu 2" src="<img width="1152" height="785" alt="Capture d&#39;écran 2026-11-19 010523" src="https://github.com/user-attachments/assets/303f4e56-3748-46b8-9d30-9d2dadbe15a5" />
-" />
-</p>
+
 
