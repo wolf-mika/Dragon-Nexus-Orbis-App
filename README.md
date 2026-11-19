@@ -11,8 +11,6 @@
 * **Explorateur PC ⇄ Console :** Moniteur matériel en temps réel (température CPU/GPU, espace disque), gestion des avatars, thèmes, transferts de sauvegardes/trophées et sécurisation anti-mise à jour (DNS)[cite: 17].
 * **Moniteur Système & Réseau :** Scanner réseau automatique, test de liaison par port (`2121`), outil de lecture de fichiers PKG et réveil réseau (*Wake-on-LAN*)[cite: 18].
 * **Studio & Bonus :** Outils de sécurité de compte, gestion des sources de patchs externes et personnalisation de l'interface (*Bleu Électrique*, etc.)[cite: 19].
-
----
 ## 📋 Fiche technique & architecture — Dragon-Nexus-Orbis v1.0.0
 
 **Auteur & propriétaire :** dragon111 — Tous droits réservés © 2026
