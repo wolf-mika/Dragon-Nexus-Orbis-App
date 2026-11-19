@@ -38,5 +38,26 @@ Téléchargez la dernière version de l'installateur officiel pour Windows :
 <p align="center">
   <img width="453" height="471" alt="Aperçu Dragon-Nexus-Orbis" src="https://github.com/user-attachments/assets/83ab8ea5-7229-4594-b465-29dc732f8808" />
 </p>
+## 📥 Téléchargement
 
+Téléchargez la dernière version de l'installateur officiel pour Windows :
+👉 **[Télécharger Dragon-Nexus-Orbis v1.0 (Setup.exe)](https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/releases/latest)**
+
+---
+
+## 🖼️ Aperçu de l'interface
+
+<p align="center">
+  <img width="800" alt="Gestionnaire PS4" src="https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/assets/..." />
+  <br><br>
+  <img width="800" alt="Gestionnaire PS5" src="https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/assets/..." />
+  <br><br>
+  <img width="800" alt="Convertisseur Outils" src="https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/assets/..." />
+  <br><br>
+  <img width="800" alt="Explorateur PC Console" src="https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/assets/..." />
+  <br><br>
+  <img width="800" alt="Moniteur Système" src="https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/assets/..." />
+  <br><br>
+  <img width="800" alt="Studio Bonus" src="https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/assets/..." />
+</p>
 
