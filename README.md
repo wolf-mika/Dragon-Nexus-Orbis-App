@@ -25,3 +25,4 @@ Pour mettre à jour et synchroniser ton application sur ton dépôt GitHub :
 
 ---
 *Créé par **dragon111** — Tous droits réservés © 2026*[cite: 19]
+<img width="453" height="471" alt="Capture d&#39;écran 2026-11-19 010440" src="https://github.com/user-attachments/assets/9fd376d8-368c-4820-8aad-35a9b3cfd8c4" />
