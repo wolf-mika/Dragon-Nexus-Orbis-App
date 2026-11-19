@@ -46,10 +46,11 @@ Téléchargez la dernière version de l'installateur officiel pour Windows :
 ---
 
 ## 🖼️ Aperçu de l'interface
-## 🖼️ Aperçu de l'interface
+
+
 
 <p align="center">
-  <img width="800" src="https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/assets/METS_LE_LIEN_GITHUB_ICI_1" />
+  <img width="800" src="https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/assets/<img width="1150" height="772" alt="Capture d&#39;écran 2026-11-19 010504" src="https://github.com/user-attachments/assets/0f9e98be-4c4e-450b-a847-13c72288d056" />" />
   <br><br>
   <img width="800" src="https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/assets/METS_LE_LIEN_GITHUB_ICI_2" />
   <br><br>
