@@ -26,3 +26,16 @@ Pour mettre à jour et synchroniser ton application sur ton dépôt GitHub :
 ---
 *Créé par **dragon111** — Tous droits réservés © 2026*[cite: 19]
 
+## 📥 Téléchargement
+
+Téléchargez la dernière version de l'installateur officiel pour Windows :
+👉 **[Télécharger Dragon-Nexus-Orbis v1.0 (Setup.exe)](https://github.com/wolf-mika/Dragon-Nexus-Orbis-App/releases/latest)**
+
+---
+
+## 🖼️ Aperçu de l'interface
+
+<p align="center">
+  <img width="453" height="471" alt="Aperçu Dragon-Nexus-Orbis" src="https://github.com/user-attachments/assets/83ab8ea5-7229-4594-b465-29dc732f8808" />
+</p>
+
